@@ -24,6 +24,6 @@ This is a simple Task Manager web application built with Laravel.
 
 ## Contact
 
-Created by Ibrahim Abu Assad - [GitHub Profile](https://github.com/Ibrahim-Abu-Assad)
+Created by Ibrahim Abu Assad - [GitHub Profile](https://github.com/Ibrahim-Abu-Asaad)
 
 ---
